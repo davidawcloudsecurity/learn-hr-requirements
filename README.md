@@ -10,13 +10,6 @@ how to make $10k as an employee
 #### Who We Are
 minden.ai is a technology venture founded by Temasek in strategic partnership with DFI Retail Group and coalition partners BreadTalk Group, DBS Bank, PAssion Card, Mandai Wildlife Group, Singtel, GoJek, FoodPanda, and Great Eastern. We are on a mission to redefine the engagement between brands and consumers in Southeast Asia.
 
-#### The Way We Work
-We believe in hiring different and diverse talents. Inclusive cultures are the foundation for collaboration and innovation within our team.
-
-We treat each other with respect. We embrace authenticity and transparency. We pride ourselves on agility and innovation, and believe in embracing continuous learning and self-improvement.
-
-We are seeking a self-motivated, solution-oriented, and experienced Senior DevOps to join our Product & Engineering Team.
-
 #### In This Role, You Will:
 - Participate in building and executing the Infra, DevSecOps roadmap.
 - Implement and operate our cloud infrastructure.
