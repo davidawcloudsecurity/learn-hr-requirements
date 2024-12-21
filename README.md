@@ -1,2 +1,196 @@
 # learn-hr-requirements
 how to make $10k as an employee
+
+# MINDEN INTERNATIONAL PTE. LTD.
+### Typically replies in 30 days
+
+## Senior DevOps / DevSecOps / Cloud Infra / SRE
+
+### Roles & Responsibilities
+
+#### Who We Are
+minden.ai is a technology venture founded by Temasek in strategic partnership with DFI Retail Group and coalition partners BreadTalk Group, DBS Bank, PAssion Card, Mandai Wildlife Group, Singtel, GoJek, FoodPanda, and Great Eastern. We are on a mission to redefine the engagement between brands and consumers in Southeast Asia.
+
+#### The Way We Work
+We believe in hiring different and diverse talents. Inclusive cultures are the foundation for collaboration and innovation within our team.
+
+We treat each other with respect. We embrace authenticity and transparency. We pride ourselves on agility and innovation, and believe in embracing continuous learning and self-improvement.
+
+We are seeking a self-motivated, solution-oriented, and experienced Senior DevOps to join our Product & Engineering Team.
+
+#### In This Role, You Will:
+- Participate in building and executing the Infra, DevSecOps roadmap.
+- Implement and operate our cloud infrastructure.
+- Implement operational excellence practices to ensure reliability and security, and be able to debug live production systems, identify performance bottlenecks, spot anomalous system behavior, and resolve root causes of incidents.
+- Employ infrastructure as code paradigm to increase automation, scalability, and reliability.
+- Be active at a technical level, participating in design and code reviews, and taking a hands-on role for strategically important technical initiatives.
+- Champion and enable DevOps and Shift-Left culture in close collaboration with Development Teams.
+- Introduce DevOps and Security practices as early as possible and develop mechanisms for gathering early and continuous feedback, preventing security issues.
+- Improve performance and cost optimizations.
+- Provide and operate internal tools for our developers.
+- Support initiatives to improve system and service delivery through development.
+- Maintain tools to automate and monitor as much of the system as possible.
+- Implement security controls, best practices, and configuration management.
+- Drive DevOps, Security, SRE, Infra, and Cloud best practices.
+- Identify and recommend long-term technologies of relevant company interest and propose long-term strategies on cutting-edge trends and developments in your area of expertise.
+
+#### You Will Be a Great Match If You Have:
+- Experience in building and operating production-grade infrastructure and systems on the cloud.
+- Experience with AWS, Containers, Kubernetes, and Terraform, and possess Cloud Certifications (e.g., AWS Professional Certifications, CKAD, etc.).
+- Experience with modern infrastructure and application development using public cloud primitives.
+- Experience building tools for Continuous Integration and Continuous Deployment systems.
+- Experience with observability stacks like DataDog, various SaaS, and B2B integrations.
+- Familiarity with DevSecOps principles for integrating security solutions in products like GitHub Actions, Helm, ArgoCD.
+- Familiarity with agile development practices and modern DevOps/SRE principles.
+- A good understanding of trade-offs in DevOps, DevSecOps, and AWS Cloud Infra roles.
+- A good understanding of the principles, theories, and practices around software development.
+- A good understanding of distributed architectures (e.g., microservices and event processing architectures).
+- A good understanding of security concepts such as Public Key Infrastructure (PKI), Secure coding practices, OWASP, Secrets management, and Vulnerability remediation.
+- Experience working in a collaborative environment with agile development teams and communicating with software product delivery teams to streamline DevOps workflows, reduce risks related to code development, system architecture, and infrastructure.
+- High adaptability to evolving security and business priorities quickly and effectively.
+- Proven record with end-to-end troubleshooting.
+- Software development experience or a Computer Science background will be a plus.
+- Prior experience in payments or e-commerce domains, high-security systems, modern data platforms, and familiarity with one or more programming languages will be added advantages.
+
+# Projects to Fit Senior DevOps / DevSecOps / Cloud Infra / SRE Role
+
+## 1. **Automated Cloud Infrastructure with Terraform and AWS**
+### Goal: Build and deploy production-grade infrastructure using Terraform and AWS.
+
+### Steps:
+1. **Set up AWS account** and get familiar with key services (EC2, S3, VPC, IAM, Lambda).
+2. **Create a Terraform configuration** to provision basic resources such as EC2 instances, RDS databases, and S3 buckets.
+3. **Use Terraform modules** for reusability and maintainability of the code.
+4. **Set up IAM roles and policies** to enforce security best practices (least privilege).
+5. **Deploy and manage infrastructure** in a fully automated manner using Terraform.
+6. **Implement state management** with remote backends like AWS S3 and DynamoDB.
+7. **Automate infrastructure provisioning** via CI/CD pipelines in GitHub Actions or GitLab CI.
+
+### Skills Targeted:
+- Cloud infrastructure (AWS)
+- Infrastructure as Code (Terraform)
+- Security (IAM, least privilege)
+- CI/CD automation
+
+---
+
+## 2. **Build a CI/CD Pipeline with GitHub Actions and Kubernetes**
+### Goal: Set up a Continuous Integration and Continuous Deployment pipeline for a microservice application.
+
+### Steps:
+1. **Build a sample microservice application** using a popular framework (e.g., Node.js, Flask, Spring Boot).
+2. **Containerize the application** using Docker.
+3. **Set up a Kubernetes cluster** using Amazon EKS or Google GKE.
+4. **Create Kubernetes manifests** to deploy the app, including services, ingress, and persistent volumes.
+5. **Build a CI/CD pipeline in GitHub Actions** to automate tests, builds, and deployments.
+6. **Set up Helm charts** for deploying the application in a repeatable and scalable way.
+7. **Monitor deployments** with Kubernetes observability tools like Prometheus, Grafana, or DataDog.
+8. **Implement automated rollback** in case of deployment failures.
+
+### Skills Targeted:
+- Containers (Docker)
+- Orchestration (Kubernetes)
+- CI/CD (GitHub Actions, Helm)
+- Monitoring & Observability (Prometheus, DataDog)
+
+---
+
+## 3. **Implement DevSecOps Pipeline with Security Scanning**
+### Goal: Integrate security practices into the CI/CD pipeline using tools like GitHub Actions and Snyk.
+
+### Steps:
+1. **Build a sample web application** (e.g., a Node.js app with a MongoDB database).
+2. **Containerize the application** with Docker.
+3. **Create a GitHub Actions pipeline** to automatically build and test the app on each push.
+4. **Integrate security scanning tools** like Snyk or OWASP Dependency-Check into the pipeline.
+5. **Enforce security policies** for static code analysis and dependency management.
+6. **Set up vulnerability scanning** for Docker images using tools like Trivy or Clair.
+7. **Ensure compliance with best practices** for DevSecOps, such as enforcing 2FA, code reviews, and secure coding principles.
+8. **Enable automated alerts** in case of vulnerabilities and integrate them with Slack or email.
+
+### Skills Targeted:
+- DevSecOps principles
+- CI/CD (GitHub Actions)
+- Security scanning (Snyk, OWASP)
+- Vulnerability remediation
+
+---
+
+## 4. **Set Up Full-Stack Monitoring and Observability with DataDog**
+### Goal: Implement an observability stack to monitor applications, infrastructure, and security.
+
+### Steps:
+1. **Set up a cloud-based infrastructure** (AWS, GCP, or Azure) with EC2 instances, RDS, and load balancers.
+2. **Instrument the application** to expose metrics, logs, and traces using OpenTelemetry or DataDog SDK.
+3. **Set up DataDog agent** on the instances to collect metrics and logs.
+4. **Monitor application performance**, error rates, and latency in DataDog.
+5. **Implement custom dashboards** in DataDog to visualize infrastructure and application metrics.
+6. **Set up alerting** in DataDog for critical metrics (e.g., high CPU usage, low memory, 5xx errors).
+7. **Integrate with other tools** like PagerDuty for incident management and Slack for real-time notifications.
+
+### Skills Targeted:
+- Monitoring (DataDog, OpenTelemetry)
+- Cloud infrastructure (AWS/GCP)
+- Observability (Metrics, Logs, Traces)
+- Alerting and incident management
+
+---
+
+## 5. **Build a Secure and Scalable Microservices Architecture**
+### Goal: Design and implement a secure, scalable, and fault-tolerant microservices architecture.
+
+### Steps:
+1. **Design a microservices-based application** with components such as User Service, Payment Service, and Notification Service.
+2. **Use Docker** to containerize the microservices.
+3. **Deploy services in Kubernetes**, using namespaces, services, and deployments.
+4. **Secure communication between microservices** using mutual TLS (mTLS) and API Gateway.
+5. **Implement horizontal scaling** by using Kubernetes Autoscaling (HPA).
+6. **Set up centralized logging** with the ELK stack (Elasticsearch, Logstash, and Kibana) or a SaaS solution like Datadog.
+7. **Implement database sharding** and replication to ensure high availability and performance.
+8. **Use security best practices** for microservices, such as JWT for authentication, OAuth2, and RBAC for authorization.
+
+### Skills Targeted:
+- Microservices architecture
+- Kubernetes and Docker
+- Security (mTLS, OAuth2, RBAC)
+- Scalability and performance optimization
+
+---
+
+## 6. **Cost Optimization in Cloud Infrastructure**
+### Goal: Implement strategies to optimize and reduce cloud infrastructure costs.
+
+### Steps:
+1. **Set up a multi-tier application** (web app, database, and caching layer) on AWS or GCP.
+2. **Use AWS Cost Explorer** or GCP's Cost Management tools to analyze current cloud spending.
+3. **Identify underutilized resources** (e.g., EC2 instances, unused volumes, etc.).
+4. **Implement auto-scaling** for web servers to ensure resources are scaled based on demand.
+5. **Switch to reserved instances or spot instances** for cost savings.
+6. **Set up cost alerts** to prevent overspending.
+7. **Use serverless technologies** like AWS Lambda or GCP Functions where applicable to reduce costs for low-traffic parts of the application.
+8. **Implement resource tagging** to easily track and attribute costs to specific projects or teams.
+
+### Skills Targeted:
+- Cloud cost management (AWS/GCP)
+- Auto-scaling and serverless architectures
+- Cloud resource optimization
+
+---
+
+## 7. **Incident Management and Disaster Recovery Strategy**
+### Goal: Design a robust incident management and disaster recovery strategy for production systems.
+
+### Steps:
+1. **Design a disaster recovery plan** that includes failover strategies, backup procedures, and RTO (Recovery Time Objective) and RPO (Recovery Point Objective) guidelines.
+2. **Simulate a system failure** and test the recovery process using backup tools and processes.
+3. **Set up CloudWatch or Stackdriver** to monitor for critical system failures and outages.
+4. **Use Infrastructure as Code** (IaC) to rapidly restore infrastructure in case of failure (using tools like Terraform, CloudFormation).
+5. **Implement auto-healing** for critical systems in Kubernetes (self-healing pods) and EC2 instances (Auto Recovery).
+6. **Test incident response plans** by simulating high-severity issues and ensuring the team can quickly recover.
+7. **Create runbooks** and document procedures for handling incidents efficiently.
+
+### Skills Targeted:
+- Incident management
+- Disaster recovery
+- Cloud monitoring (CloudWatch, Stackdriver)
+- Automated recovery and self-healing
