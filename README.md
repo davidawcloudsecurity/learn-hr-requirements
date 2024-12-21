@@ -1,8 +1,7 @@
 # learn-hr-requirements
 how to make $10k as an employee
 
-# MINDEN INTERNATIONAL PTE. LTD.
-### Typically replies in 30 days
+## MINDEN INTERNATIONAL PTE. LTD.
 
 ## Senior DevOps / DevSecOps / Cloud Infra / SRE
 
